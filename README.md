@@ -1,5 +1,5 @@
 # docs
 fnbr.js docs website
 
-#Based on
+# Based on
 https://github.com/discordjs/website
